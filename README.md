@@ -1,4 +1,4 @@
-# Recent Deepfake or AI-generated Image/Video Papers on arXiv
+# Recent Deepfake or AI-generated Image/Video Detection Papers on arXiv
 
 To facilitate graduate students and researchers in quickly locating papers based on keywords, I consolidated the abstracts based on this topic from arXiv and created a webpage. 
 
